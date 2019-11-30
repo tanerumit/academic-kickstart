@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My Paper Name"
-subtitle: ""
+title: "Test paper"
+subtitle: "test test"
 summary: ""
-authors: []
+authors: [Taner et al.]
 tags: []
-categories: []
+categories: [climate risk]
 date: 2019-11-30T16:01:24+01:00
 lastmod: 2019-11-30T16:01:24+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
