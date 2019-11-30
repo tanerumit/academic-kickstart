@@ -1,16 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Test paper"
+title: "Incorporating multidimensional probabilistic information into robustness‐based water systems planning"
 subtitle: "test test"
 summary: ""
-authors: [Taner et al.]
-tags: []
+publication: "*Water Resources Research* 55"
+authors: [Taner M.Ü., Ray P., Brown, C.]
+tags: [decision scaling]
 categories: [climate risk]
-date: 2019-11-30T16:01:24+01:00
-lastmod: 2019-11-30T16:01:24+01:00
+date: "2019"
 featured: true
 draft: false
+url: https://doi.org/10.1029/2018WR022909
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,3 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Taner M.Ü., Ray P., Brown, C. (2019). 
+“.” 
+
