@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Mehmet Umit Taner, Ph.D.
+name: Ümit Taner, Ph.D.
 
 # Username (this should match the folder name)
 authors:
@@ -15,15 +15,15 @@ role: Researcher/Advisor
 # Organizations/Affiliations
 organizations:
 - name: Deltares
-  url: "https://www.deltares.nl/nl/"
+  url: "https://www.deltares.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include...
+bio: ""
 
 interests:
-- Water Resources Systems Analysis
-- Adaptive Planning
-- Climate Resilience
+- Watershed planning
+- Water resources systems analysis
+- Climate adaptation and resilience
 
 education:
   courses:
@@ -33,7 +33,7 @@ education:
   - course: MS in Environmental Technology
     institution: Bogazici University
     year: 2007
-  - course: BSc in Environmental Engineering
+  - course: BS in Environmental Engineering
     institution: Yildiz Technical University
     year: 2004
 
@@ -44,21 +44,27 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:tanerumit@gmail.com"
+  
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/hydrogalactica
+  
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=sFk6CpIAAAAJ&hl=en&oi=ao
+  
 - icon: github
   icon_pack: fab
   link: https://github.com/tanerumit/
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/tanerumit/
+
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "umit.taner@deltares.nl"
@@ -70,6 +76,9 @@ user_groups:
 - Visitors
 ---
 
-Dr. Umit Taner is a researcher at Deltares, specializing in climate risk management and integrated water resources analysis. He has worked extensively on the development of decision frameworks and various simulation and optimization models for multiple purposes including hydropower development, irrigation and drinking water supply planning, and environmental protection. Since 2019, he is the project manager for “climate resilient river basin development in Chancay-Lambayeque Watershed in Peru”.   
+I am a water resources engineer and climate adaptation specialist at [Deltares](https://www.deltares.nl). I am currently a project manager/technical lead in several projects on resilient drinking water infrastructure, basin-scale climate risk assessment, and game design for strategic planning.  
+ 
+Before joining Deltares, I was a researcher at the [UMass Hydrosystems Research Group](https://blogs.umass.edu/hydrosystems/), where I developed decision-making frameworks for water systems planning under long-term uncertainty. Previously, I was a research fellow at 
+[US EPA](https://www.epa.gov/aboutepa/about-office-water), where I worked on watershed and water quality models. I have international work experience in various countries, including Turkey, USA, Canada, Peru, Nepal, Kenya, Tanzania, Malawi, and Niger.   
 
-Prior to joining Deltares, he was a postdoctoral researcher at the University of Massachusetts Amherst. He received his doctoral degree in 2017 from the same institution, where he developed decision analytical frameworks for dealing with water, food, and energy security under an uncertain future. Prior to his doctoral studies, he worked as a researcher at the Scientific and Technological Research Council of Turkey (TUBITAK) and the U.S. Environmental Protection Agency (US EPA). He has more than ten years of international project experience in various river basins in Turkey, United States, Canada, Peru, Nepal, Kenya, Tanzania, Malawi, and Niger. He has also instructed various stakeholder workshops and delivered trainings in Africa and Asia for various World Bank-funded projects.
+If you want to know more, feel free to contact me!

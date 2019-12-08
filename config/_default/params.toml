@@ -5,50 +5,20 @@
 ## Theme
 ############################
 
-# Choose a theme.
-#   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
-#   Browse built-in themes in `themes/academic/data/themes/`
-#   Browse user installed themes in `data/themes/`
-theme = "minimal"
-
-# Enable users to switch between day and night mode?
-day_night = true
-
-# Override the theme's font set (optional).
-#   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
-#   Browse built-in font sets in `themes/academic/data/fonts/`
-#   Browse user installed font sets in `data/fonts/`
-font = "Minimal"
-
-# Choose a font size.
-# Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "M"
+theme = "Ocean" 		    # Choose a theme options: "minimal"
+day_night = true  			# Enable users to switch between day and night mode?
+font = "Classic"    		# options: "Rose" "Minimal" "Classic" 
+font_size = "M"   			# Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 
 ############################
 ## Basic Info
 ############################
 
-# Website type
-#   Improve how search engines understand your site.
-#   For personal sites, choose "Person".
-#   For organizations and projects, choose from https://schema.org/Organization#subtypes
-#   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 site_type = "Person"
-
-# Local business type (optional)
-# If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
 local_business_type = ""
-
-# Organization name (optional)
-# Enter an organization or project name. Defaults to the site title from `config.toml`.
 org_name = ""
-
-# Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
-
-# Display a logo in navigation bar rather than title (optional).
-#   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = ""
+description = "" 
+logo = "" 					# To enable, place an image in `static/img/`
 
 ############################
 ## Site Features
@@ -56,26 +26,13 @@ logo = ""
 
 # Enable source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
-highlight = true
+highlight = false
 highlight_languages = ["r"]  # Add support for highlighting additional languages
-# highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
+# highlight_style = "github" # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
-# Enable LaTeX math rendering? true/false
-#   If false, you can enable math on a per page basis as needed.
-math = false
-
-# Enable diagram rendering? true/false
-#   If false, you can enable diagrams on a per page basis as needed.
-diagram = false
-
-# Privacy pack
-#   Show a cookie consent message to visitors
-#   Anonymize IP in Google Analytics (if enabled)
+math = false 				# Enable LaTeX math rendering? true/false
+diagram = false 			# Enable diagram rendering? true/false
 privacy_pack = false
-
-# Enable visitors to edit pages?
-#   `repo` defines the repository URL. `editable` defines which page types can be edited.
-#edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 ############################
 ## Contact details
@@ -87,34 +44,20 @@ privacy_pack = false
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "tanerumit@gmail.com"
 #phone = ""
-
-# Address
-# For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-#address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
-
-# Geographic coordinates
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-# coordinates = {latitude = "37.4275", longitude = "-122.1697"}
-
-# Directions for visitors to locate you.
-#directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
-
-# Office hours
-# A list of your office hours. To remove, set to an empty list `[]`.
-#office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
-
-# Enter an optional link for booking appointments (e.g. calendly.com).
-#appointment_url = "https://calendly.com"
+#adress = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
+
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/hydrogalactica"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+  {icon = "envelope", icon_pack = "ai", link = "tanerumit@gmail.com"}
+  #{icon = "twitter", icon_pack = "fa", link = "https://twitter.com/hydrogalactica"},
+  #{icon = "skype",   icon_pack = "fa", link = "skype:echo123?call"},
+  #{icon = "google-scholar", icon_pack = "ai", link = "https://scholar.google.com/citations?user=sFk6CpIAAAAJ&hl=en&oi=ao"},
+  #{icon = "github", icon_pack = "fa", link = "//github.com/tanerumit/"},
+  #{icon = "linkedin", icon_pack = "fa", link = "https://www.linkedin.com/in/tanerumit/"},
+  #{icon = "orcid", icon_pack = "ai", link = "https://orcid.org/0000-0002-4710-6537"}
+]
 
 ############################
 ## Social
