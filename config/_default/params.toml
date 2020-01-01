@@ -5,8 +5,8 @@
 ## Theme
 ############################
 
-theme = "Ocean" 		    # Choose a theme options: "minimal"
-day_night = true  			# Enable users to switch between day and night mode?
+theme = "minimal" 		    # Choose a theme options: "minimal"
+day_night = false  			# Enable users to switch between day and night mode?
 font = "Classic"    		# options: "Rose" "Minimal" "Classic" 
 font_size = "M"   			# Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 

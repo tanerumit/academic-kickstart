@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ümit Taner, Ph.D.
+name: Ümit Taner, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher/Advisor
+role: Researcher & project manager
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,9 @@ organizations:
 bio: ""
 
 interests:
-- Watershed planning
-- Water resources systems analysis
-- Climate adaptation and resilience
+- Resilient water infrastructure planning
+- Decision-making under climate change
+- Water systems modeling & decision-support tools
 
 education:
   courses:
@@ -76,9 +76,5 @@ user_groups:
 - Visitors
 ---
 
-I am a water resources engineer and climate adaptation specialist at [Deltares](https://www.deltares.nl). I am currently a project manager/technical lead in several projects on resilient drinking water infrastructure, basin-scale climate risk assessment, and game design for strategic planning.  
- 
-Before joining Deltares, I was a researcher at the [UMass Hydrosystems Research Group](https://blogs.umass.edu/hydrosystems/), where I developed decision-making frameworks for water systems planning under long-term uncertainty. Previously, I was a research fellow at 
-[US EPA](https://www.epa.gov/aboutepa/about-office-water), where I worked on watershed and water quality models. I have international work experience in various countries, including Turkey, USA, Canada, Peru, Nepal, Kenya, Tanzania, Malawi, and Niger.   
-
-If you want to know more, feel free to contact me!
+I am researcher & project manager at [Deltares](https://www.deltares.nl). I specialize on developing and applying analytical approaches for water resources planning under climate and demographic change. Previously, I was a post-doctoral researcher at [UMass Hydrosystems Research Group](https://blogs.umass.edu/hydrosystems/).  
+You can browse my CV or publications to explore my previous work. You can alsocontact me directly using the forms below. 
