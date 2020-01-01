@@ -5,9 +5,9 @@
 ## Theme
 ############################
 
-theme = "minimal" 		    # Choose a theme options: "minimal"
+theme = "forest" 	     	# options: minimal, 1950s, coffee, dark, forest, strawberry, rose, ocean, mr_robot
 day_night = false  			# Enable users to switch between day and night mode?
-font = "Classic"    		# options: "Rose" "Minimal" "Classic" 
+font = "Minimal"    		# options: "Rose" "Minimal" "Classic" 
 font_size = "M"   			# Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 
 ############################
