@@ -78,4 +78,4 @@ user_groups:
 
 I am a researcher & project manager at [Deltares](https://www.deltares.nl). I specialize in developing and applying analytical approaches for water resources planning under climate and demographic change. Previously, I was a post-doctoral researcher at [UMass Hydrosystems Research Group](https://blogs.umass.edu/hydrosystems/).  
   
-You can browse my CV or publications below. If you would like to get in touch, please use the contact forms below. 
+You can browse my CV or publications below. If you would like to get in touch, drop an email. 
